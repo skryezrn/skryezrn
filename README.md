@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skryezrn
+- 👋 Hi, I’m @skryezrn, I'm third grade Mathematical Engineering student at Yildiz Technical University 
 - 👀 I’m interested in data science and artificial intellience
 - 🌱 I’m currently learning Python and SQL
 - 👩‍💻 I’m looking for internship
